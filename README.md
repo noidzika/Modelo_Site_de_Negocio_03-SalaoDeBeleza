@@ -1,40 +1,106 @@
-# 💇 Landing Page - Salão de Beleza
+<h1 align="center">💇 Bella Rosa — Landing Page</h1>
+
+<p align="center">
+  Landing page responsiva para salão de beleza, desenvolvida com foco em <strong>UX/UI</strong>, boas práticas de HTML/CSS/JS e integração com WhatsApp.
+</p>
+
+<p align="center">
+  <a href="https://noidzika.github.io/Modelo_Site_de_Negocio_03-SalaoDeBeleza/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗 Ver projeto ao vivo-FF69B4?style=for-the-badge" alt="Ver projeto" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+---
+
+## 📸 Preview
+
 <table>
   <tr>
-    <td width="35%" valign="top">
-        <p>Este é um modelo de uma página web desenvolvida para um salão de beleza utilizando <strong>HTML, CSS e JavaScript</strong>.</p>
-        O projeto foi criado com foco em **UX/UI**, buscando proporcionar uma navegação intuitiva, comunicação clara e uma experiência agradável para o usuário.
-    </td>
-    <td width="65%">
-      <img src="arquivosReadmeMd/foto1.png" alt="Landing Page" width="100%">
-    </td>
+    <td><img src="./arquivosReadmeMd/foto1.png" alt="Hero section" width="100%"/></td>
+    <td><img src="./arquivosReadmeMd/foto2.png" alt="Seção de serviços" width="100%"/></td>
   </tr>
-</table>
-<table>
   <tr>
-    <td width="65%">
-      <img src="arquivosReadmeMd/foto2.png" alt="Landing Page" width="80%">
-    </td>
-    <td width="35%" valign="top">
-      <p>A pagina possui apenas um arquivo HTML onde dispoe de todo conteudo apresentado, incluindo botoes e cards com descrição detalhada dos serviços prestados.</p>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td width="35%" valign="top">
-      <p>A navegação é dinamica e a aparencia é agradavel de olhar graças ao CSS e o JavaScript que trazem uma aparencia mais moderna para a pagina.</p>
-    </td>
-    <td width="65%">
-      <img src="arquivosReadmeMd/foto3.png" alt="Landing Page" width="70%">
-    </td>
+    <td align="center"><em>Primeira impressão</em></td>
+    <td align="center"><em>Cards de serviços</em></td>
   </tr>
 </table>
 
+<p align="center">
+  <img src="./arquivosReadmeMd/foto3.png" alt="Seção sobre e rodapé" width="60%"/>
+  <br/><em>Seção Sobre + Rodapé responsivo</em>
+</p>
 
+---
 
+## 🎯 Sobre o projeto
 
+Este projeto é um **modelo de landing page comercial** desenvolvido com o tema de salão de beleza, pensado para demonstrar habilidades em desenvolvimento front-end. O design e a estrutura foram criados do zero com foco em:
 
+- Experiência do usuário agradável e intuitiva (UX)
+- Interface limpa e visualmente atrativa (UI)
+- Responsividade total — funciona em mobile, tablet e desktop
+- Integração com o **WhatsApp**
 
+### `O projeto pode ser facilmente adaptado para outros tipos de negócio.`
 
+---
 
+## ✨ Funcionalidades
+
+- ✅ Navbar com scroll suave entre seções
+- ✅ Hero section com chamada para ação (CTA)
+- ✅ Cards de serviços com preços
+- ✅ Seção "Sobre" com métricas do negócio
+- ✅ Integração com WhatsApp (botão flutuante + CTAs)
+- ✅ Rodapé com horários, endereço e contato
+- ✅ Layout 100% responsivo
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+| Tecnologia | Uso |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=html" /> | Estrutura semântica da página |
+| <img src="https://skillicons.dev/icons?i=css" /> | Estilização, responsividade (Flexbox/Grid) |
+| <img src="https://skillicons.dev/icons?i=js" /> | Interações, menu mobile, scroll |
+
+---
+
+## 📂 Estrutura de pastas
+
+```
+📦 Modelo_Site_de_Negocio_03-SalaoDeBeleza
+├── 📁 css/          # Estilos da página
+├── 📁 js/           # Scripts de interação
+├── 📁 imagens/      # Imagens do site
+├── 📁 arquivosReadmeMd/  # Screenshots para o README
+└── index.html       # Arquivo principal
+```
+
+---
+
+## 🚀 Como rodar localmente
+
+```bash
+# Clone o repositório
+git clone https://github.com/noidzika/Modelo_Site_de_Negocio_03-SalaoDeBeleza.git
+
+# Entre na pasta
+cd Modelo_Site_de_Negocio_03-SalaoDeBeleza
+
+# Abra o arquivo no navegador
+# Basta abrir o index.html diretamente, sem necessidade de servidor
+```
+
+---
+
+## 📬 Contato
+
+Desenvolvido por **Ulisses Oliveira**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL-AQUI)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noidzika)
